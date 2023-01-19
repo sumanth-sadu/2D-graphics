@@ -39,3 +39,6 @@ Create a separate program that contains all the functionality of part 1. Additio
 axis) and #0000FF (when the surface is viewed flat, i.e. orthogonal to the Z-axis) based on the angle with the Z-axis, such that the face is displayed similarly to how a shader would display it.
 
 
+https://user-images.githubusercontent.com/46193429/213074462-fbcf8630-d4b4-415f-917e-7feb2eb128e6.mov
+
+
