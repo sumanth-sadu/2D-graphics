@@ -1,7 +1,7 @@
 # 2D-graphics
 Using 2D graphics, created a window which can display a 3D object defined by vertices and the edges of the faces of the object.
 
-##PART-1:
+## PART-1:
 
 Represent the vertices and the edges. The edges will be lines which go between the vertices, and the faces should be transparent, such that a wireframe of the 3D object is displayed.
 
@@ -33,7 +33,9 @@ mouse rotates the object thusly:
 
 https://user-images.githubusercontent.com/46193429/213073032-41a53996-40ac-490f-8ca3-e246dbd70c93.mov
 
-##PART-2: 
+--- 
+
+## PART-2: 
 
 Create a separate program that contains all the functionality of part 1. Additionally, make each of the visible faces of the object a solid, opaque blue color. Make the color smoothly vary between #00005F (when the surface is viewed on edge, i.e. the normal of the surface makes a 90 degree angle to the Z-
 axis) and #0000FF (when the surface is viewed flat, i.e. orthogonal to the Z-axis) based on the angle with the Z-axis, such that the face is displayed similarly to how a shader would display it.
@@ -41,11 +43,7 @@ axis) and #0000FF (when the surface is viewed flat, i.e. orthogonal to the Z-axi
 
 https://user-images.githubusercontent.com/46193429/213074462-fbcf8630-d4b4-415f-917e-7feb2eb128e6.mov
 
-<video controls width="250">
-  
-    <source src="https://user-images.githubusercontent.com/46193429/213074462-fbcf8630-d4b4-415f-917e-7feb2eb128e6.mov" type="video/webm">
 
-    Sorry, your browser doesn't support embedded videos.
-</video>
+
 
 
